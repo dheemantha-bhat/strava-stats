@@ -53695,11 +53695,24 @@
     "elevation_gain": 0.0,
     "id": "17741402124",
     "moving_time": 1365.0,
-    "name": "Afternoon Weight Training",
+    "name": "Core Circuit 1",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "start_date_local": "2026-03-16T17:27:32Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 8885.0,
+    "elevation_gain": 0.0,
+    "id": "17748928514",
+    "moving_time": 2927.0,
+    "name": "Vo2 max Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-17T05:55:59Z",
+    "type": "Run",
     "year": 2026
   }
 ]
