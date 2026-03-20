@@ -53756,10 +53756,10 @@
   },
   {
     "date": "2026-03-19",
-    "distance": 1868.3,
-    "elevation_gain": 12.0,
+    "distance": 1335.3,
+    "elevation_gain": 0.0,
     "id": "17778801802",
-    "moving_time": 1655.0,
+    "moving_time": 1355.0,
     "name": "Afternoon Walk",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
@@ -53769,15 +53769,41 @@
   },
   {
     "date": "2026-03-19",
-    "distance": 1722.7,
-    "elevation_gain": 4.0,
+    "distance": 1318.1,
+    "elevation_gain": 5.4,
     "id": "17779058628",
-    "moving_time": 1597.0,
+    "moving_time": 1450.0,
     "name": "Evening Walk",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-03-19T18:33:37Z",
     "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 6651.5,
+    "elevation_gain": 1.0,
+    "id": "17786404009",
+    "moving_time": 2282.0,
+    "name": "Morning Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-20T06:32:46Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17791654859",
+    "moving_time": 4304.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-20T18:50:55Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
