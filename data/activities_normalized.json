@@ -53831,5 +53831,31 @@
     "start_date_local": "2026-03-21T08:34:06Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 18875.9,
+    "elevation_gain": 121.0,
+    "id": "17810404057",
+    "moving_time": 6596.0,
+    "name": "Cubbon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-22T07:03:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 438.0,
+    "elevation_gain": 0.0,
+    "id": "17810561769",
+    "moving_time": 662.0,
+    "name": "Morning Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-22T09:36:45Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
