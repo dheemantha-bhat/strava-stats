@@ -53857,5 +53857,18 @@
     "start_date_local": "2026-03-22T09:36:45Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17823270589",
+    "moving_time": 1349.0,
+    "name": "Core Circuit 1",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-23T07:21:14Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
