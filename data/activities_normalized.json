@@ -53909,5 +53909,18 @@
     "start_date_local": "2026-03-26T07:04:33Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 206.1,
+    "elevation_gain": 0.0,
+    "id": "17872995469",
+    "moving_time": 5059.0,
+    "name": "Morning Badminton",
+    "raw_activity_type": "Workout",
+    "raw_type": "Badminton",
+    "start_date_local": "2026-03-27T08:00:09Z",
+    "type": "Badminton",
+    "year": 2026
   }
 ]
