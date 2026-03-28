@@ -53916,11 +53916,37 @@
     "elevation_gain": 0.0,
     "id": "17872995469",
     "moving_time": 5059.0,
-    "name": "Morning Badminton",
+    "name": "Badminton",
     "raw_activity_type": "Workout",
     "raw_type": "Badminton",
     "start_date_local": "2026-03-27T08:00:09Z",
     "type": "Badminton",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17878723422",
+    "moving_time": 4290.0,
+    "name": "Power Builder 3",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-27T19:53:16Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 7908.3,
+    "elevation_gain": 2.0,
+    "id": "17883091228",
+    "moving_time": 3078.0,
+    "name": "Anaerobic Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-28T06:31:09Z",
+    "type": "TrailRun",
     "year": 2026
   }
 ]
