@@ -53948,5 +53948,31 @@
     "start_date_local": "2026-03-28T06:31:09Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 12383.5,
+    "elevation_gain": 66.0,
+    "id": "17895584427",
+    "moving_time": 4186.0,
+    "name": "Cubbon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-29T07:17:34Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 5052.5,
+    "elevation_gain": 28.0,
+    "id": "17895865983",
+    "moving_time": 2159.0,
+    "name": "Recovery Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-29T09:09:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
