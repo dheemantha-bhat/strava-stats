@@ -53987,5 +53987,18 @@
     "start_date_local": "2026-03-30T17:29:54Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 15090.8,
+    "elevation_gain": 11.0,
+    "id": "17919946957",
+    "moving_time": 4980.0,
+    "name": "Tempo Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-31T06:36:13Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
