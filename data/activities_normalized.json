@@ -54046,11 +54046,50 @@
     "elevation_gain": 0.0,
     "id": "17963432528",
     "moving_time": 4598.0,
-    "name": "Evening Weight Training",
+    "name": "Power Builder 3",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "start_date_local": "2026-04-03T19:05:13Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 9871.2,
+    "elevation_gain": 95.0,
+    "id": "17969042903",
+    "moving_time": 2075.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-04T06:00:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 4994.1,
+    "elevation_gain": 1.0,
+    "id": "17969563106",
+    "moving_time": 1934.0,
+    "name": "Recovery Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-04T08:30:04Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 5006.8,
+    "elevation_gain": 6.0,
+    "id": "17973443741",
+    "moving_time": 2280.0,
+    "name": "Recovery Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-04T16:19:03Z",
+    "type": "TrailRun",
     "year": 2026
   }
 ]
