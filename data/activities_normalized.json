@@ -54182,5 +54182,31 @@
     "start_date_local": "2026-04-10T17:55:29Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 4038.4,
+    "elevation_gain": 4.0,
+    "id": "18066444252",
+    "moving_time": 1680.0,
+    "name": "Evening Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-11T18:32:27Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 464.0,
+    "elevation_gain": 0.0,
+    "id": "18066540021",
+    "moving_time": 348.0,
+    "name": "Evening Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-11T19:02:10Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
