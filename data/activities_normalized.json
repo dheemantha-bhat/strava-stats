@@ -54234,5 +54234,44 @@
     "start_date_local": "2026-04-12T16:19:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18093917940",
+    "moving_time": 4423.0,
+    "name": "Power Builder 3",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-13T21:12:12Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 7769.8,
+    "elevation_gain": 1.0,
+    "id": "18099084868",
+    "moving_time": 2640.0,
+    "name": "Morning Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-14T06:44:15Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 1023.1,
+    "elevation_gain": 0.0,
+    "id": "18099150922",
+    "moving_time": 627.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-14T07:29:16Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
