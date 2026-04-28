@@ -54644,11 +54644,24 @@
     "elevation_gain": 0.0,
     "id": "18278944737",
     "moving_time": 1707.0,
-    "name": "Evening Weight Training",
+    "name": "Core stability 3",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "start_date_local": "2026-04-27T19:15:47Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 8042.9,
+    "elevation_gain": 0.0,
+    "id": "18286146905",
+    "moving_time": 2701.0,
+    "name": "Morning Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-28T05:48:45Z",
+    "type": "TrailRun",
     "year": 2026
   }
 ]
