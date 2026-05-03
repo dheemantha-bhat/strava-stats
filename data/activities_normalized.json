@@ -54741,5 +54741,18 @@
     "start_date_local": "2026-05-02T07:16:40Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 20220.5,
+    "elevation_gain": 106.0,
+    "id": "18353833287",
+    "moving_time": 7169.0,
+    "name": "Cubbon run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T06:47:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
