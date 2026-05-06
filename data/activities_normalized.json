@@ -54780,5 +54780,31 @@
     "start_date_local": "2026-05-05T06:15:28Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 7242.8,
+    "elevation_gain": 1.0,
+    "id": "18393345381",
+    "moving_time": 2222.0,
+    "name": "Tempo run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-06T06:02:43Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18393687669",
+    "moving_time": 2076.0,
+    "name": "Post run power 2",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-06T06:55:52Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
