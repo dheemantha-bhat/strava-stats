@@ -54871,5 +54871,18 @@
     "start_date_local": "2026-05-11T07:40:50Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 11980.5,
+    "elevation_gain": 6.0,
+    "id": "18471372878",
+    "moving_time": 3762.0,
+    "name": "Threshold Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-12T05:54:17Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
