@@ -54910,5 +54910,18 @@
     "start_date_local": "2026-05-13T07:37:02Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 7381.0,
+    "elevation_gain": 0.0,
+    "id": "18498125113",
+    "moving_time": 3167.0,
+    "name": "Sprints",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-14T05:36:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
