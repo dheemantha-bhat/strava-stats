@@ -54995,10 +54995,36 @@
     "elevation_gain": 0.0,
     "id": "18555856534",
     "moving_time": 1813.0,
-    "name": "Evening Weight Training",
+    "name": "Core circuit 2",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "start_date_local": "2026-05-18T20:16:31Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 10067.2,
+    "elevation_gain": 5.0,
+    "id": "18562524223",
+    "moving_time": 3541.0,
+    "name": "Morning Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-19T06:22:58Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18562945628",
+    "moving_time": 1263.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-19T08:28:42Z",
     "type": "WeightTraining",
     "year": 2026
   }
