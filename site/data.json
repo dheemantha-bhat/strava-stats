@@ -29630,6 +29630,34 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 23,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 7,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 17,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 19,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -56757,12 +56785,23 @@
         },
         "2026-05-19": {
           "activity_ids": [
-            "18562524223"
+            "18562524223",
+            "18572861250"
           ],
-          "count": 1,
+          "count": 2,
           "distance": 10067.2,
           "elevation_gain": 5.0,
-          "moving_time": 3541.0
+          "moving_time": 3546.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18576639036",
+            "18581409318"
+          ],
+          "count": 2,
+          "distance": 8930.5,
+          "elevation_gain": 14.0,
+          "moving_time": 3899.0
         }
       },
       "Walk": {
@@ -57294,6 +57333,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1263.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18582802847"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2056.0
         }
       },
       "Workout": {
@@ -57347,7 +57395,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T17:37:33.341659+00:00",
+  "generated_at": "2026-05-20T17:53:52.402797+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17538950",
   "repo": "dheemantha-bhat/strava-stats",
