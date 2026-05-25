@@ -55144,5 +55144,18 @@
     "start_date_local": "2026-05-24T07:06:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 5087.5,
+    "elevation_gain": 5.0,
+    "id": "18642321798",
+    "moving_time": 2100.0,
+    "name": "Recovery Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-25T07:46:16Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
