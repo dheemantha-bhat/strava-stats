@@ -55196,5 +55196,44 @@
     "start_date_local": "2026-05-27T16:35:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 6563.9,
+    "elevation_gain": 77.0,
+    "id": "18683545339",
+    "moving_time": 2636.0,
+    "name": "Beach Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-28T06:58:45Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18689755170",
+    "moving_time": 157.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-28T19:46:23Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18689755211",
+    "moving_time": 324.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-28T19:28:32Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
