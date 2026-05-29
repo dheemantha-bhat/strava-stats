@@ -55235,5 +55235,31 @@
     "start_date_local": "2026-05-28T19:28:32Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 6594.7,
+    "elevation_gain": 203.0,
+    "id": "18696972029",
+    "moving_time": 2927.0,
+    "name": "Beach Run with hill reps",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-29T06:34:17Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 3998.5,
+    "elevation_gain": 94.0,
+    "id": "18702452660",
+    "moving_time": 3895.0,
+    "name": "Beach Hill Trek",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-29T17:27:14Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
