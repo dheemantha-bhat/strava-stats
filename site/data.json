@@ -29756,6 +29756,13 @@
       "subtype": "Hike",
       "type": "Hike",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 17,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -56973,6 +56980,15 @@
           "distance": 6594.7,
           "elevation_gain": 203.0,
           "moving_time": 2927.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18715545672"
+          ],
+          "count": 1,
+          "distance": 1634.2,
+          "elevation_gain": 88.0,
+          "moving_time": 1236.0
         }
       },
       "Walk": {
@@ -57621,7 +57637,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T18:11:24.334816+00:00",
+  "generated_at": "2026-05-30T16:03:35.495236+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17538950",
   "repo": "dheemantha-bhat/strava-stats",
