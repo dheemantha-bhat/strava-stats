@@ -55313,5 +55313,31 @@
     "start_date_local": "2026-06-02T07:52:40Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 5762.0,
+    "elevation_gain": 6.0,
+    "id": "18770329085",
+    "moving_time": 2281.0,
+    "name": "Recovery Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-03T18:07:01Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 5549.7,
+    "elevation_gain": 4.0,
+    "id": "18778336975",
+    "moving_time": 2281.0,
+    "name": "Recovery Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-04T07:14:21Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
