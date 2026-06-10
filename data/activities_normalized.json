@@ -55424,11 +55424,24 @@
     "elevation_gain": 0.0,
     "id": "18851692722",
     "moving_time": 5370.0,
-    "name": "Evening Weight Training",
+    "name": "Strength Builder 1",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "start_date_local": "2026-06-09T19:03:26Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 2260.0,
+    "elevation_gain": 0.0,
+    "id": "18863386885",
+    "moving_time": 920.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T16:44:08Z",
+    "type": "Run",
     "year": 2026
   }
 ]
