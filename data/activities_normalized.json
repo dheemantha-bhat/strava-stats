@@ -55476,11 +55476,50 @@
     "elevation_gain": 0.0,
     "id": "18891934810",
     "moving_time": 1539.0,
-    "name": "Evening Weight Training",
+    "name": "Core circuit 1",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "start_date_local": "2026-06-12T20:28:42Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 5056.3,
+    "elevation_gain": 36.0,
+    "id": "18897063989",
+    "moving_time": 1509.0,
+    "name": "5k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-13T06:10:04Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18897517068",
+    "moving_time": 2167.0,
+    "name": "Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-13T07:09:29Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 4482.1,
+    "elevation_gain": 7.0,
+    "id": "18898023800",
+    "moving_time": 1924.0,
+    "name": "Sprints",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-13T09:05:21Z",
+    "type": "TrailRun",
     "year": 2026
   }
 ]
