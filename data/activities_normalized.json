@@ -55560,5 +55560,18 @@
     "start_date_local": "2026-06-14T18:09:58Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 2223.0,
+    "elevation_gain": 478.0,
+    "id": "18926699182",
+    "moving_time": 2159.0,
+    "name": "Hill Climb",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-15T14:39:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
