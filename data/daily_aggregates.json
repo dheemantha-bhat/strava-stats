@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:54:18.379778+00:00",
+  "generated_at": "2026-06-19T17:18:22.233547+00:00",
   "years": {
     "2017": {
       "Ride": {
@@ -27351,6 +27351,24 @@
           "distance": 4482.1,
           "elevation_gain": 7.0,
           "moving_time": 1924.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18965720149"
+          ],
+          "count": 1,
+          "distance": 6876.9,
+          "elevation_gain": 0.0,
+          "moving_time": 2436.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18979203406"
+          ],
+          "count": 1,
+          "distance": 10790.5,
+          "elevation_gain": 12.0,
+          "moving_time": 3630.0
         }
       },
       "Walk": {
@@ -27629,6 +27647,15 @@
           "distance": 7877.200000000001,
           "elevation_gain": 22.9,
           "moving_time": 6297.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18971956291"
+          ],
+          "count": 1,
+          "distance": 1204.1,
+          "elevation_gain": 10.0,
+          "moving_time": 1050.0
         }
       },
       "WeightTraining": {
@@ -27973,6 +28000,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1539.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18952437758"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5544.0
         }
       },
       "Workout": {
