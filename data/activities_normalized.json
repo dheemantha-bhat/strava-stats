@@ -55625,5 +55625,18 @@
     "start_date_local": "2026-06-19T07:00:29Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18990969623",
+    "moving_time": 1983.0,
+    "name": "Mobility and band workouts",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-20T06:57:47Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
