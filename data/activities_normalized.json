@@ -55638,5 +55638,18 @@
     "start_date_local": "2026-06-20T06:57:47Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 21117.5,
+    "elevation_gain": 71.0,
+    "id": "19004722196",
+    "moving_time": 8363.0,
+    "name": "Lalbagh Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T07:10:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
