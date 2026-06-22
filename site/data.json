@@ -29966,6 +29966,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-06-22",
+      "hour": 18,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -57995,6 +58002,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1983.0
+        },
+        "2026-06-22": {
+          "activity_ids": [
+            "19021949637"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1604.0
         }
       },
       "Workout": {
@@ -58067,7 +58083,7 @@
       }
     }
   },
-  "generated_at": "2026-06-21T16:44:21.233975+00:00",
+  "generated_at": "2026-06-22T18:44:16.090331+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/17538950",
   "repo": "dheemantha-bhat/strava-stats",
