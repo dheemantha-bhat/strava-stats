@@ -55723,11 +55723,37 @@
     "elevation_gain": 0.0,
     "id": "19049107548",
     "moving_time": 4591.0,
-    "name": "Afternoon Weight Training",
+    "name": "Strength Builder 1",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "start_date_local": "2026-06-24T17:26:36Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 1524.3,
+    "elevation_gain": 15.0,
+    "id": "19056425809",
+    "moving_time": 1371.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-25T06:43:03Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 8098.5,
+    "elevation_gain": 3.0,
+    "id": "19056714352",
+    "moving_time": 2678.0,
+    "name": "Morning Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-25T07:13:16Z",
+    "type": "TrailRun",
     "year": 2026
   }
 ]
