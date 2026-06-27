@@ -55768,5 +55768,31 @@
     "start_date_local": "2026-06-26T06:31:26Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 7645.0,
+    "elevation_gain": 6.0,
+    "id": "19079770373",
+    "moving_time": 2450.0,
+    "name": "Vo2max Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-27T05:58:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 4791.0,
+    "elevation_gain": 28.0,
+    "id": "19080435695",
+    "moving_time": 3871.0,
+    "name": "Lalbagh Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-27T07:47:38Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
