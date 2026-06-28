@@ -55794,5 +55794,57 @@
     "start_date_local": "2026-06-27T07:47:38Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 456.5,
+    "elevation_gain": 9.0,
+    "id": "19092613901",
+    "moving_time": 183.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T06:59:14Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 1657.5,
+    "elevation_gain": 12.0,
+    "id": "19092753558",
+    "moving_time": 1010.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-28T07:34:22Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 5013.5,
+    "elevation_gain": 29.0,
+    "id": "19092877016",
+    "moving_time": 1384.0,
+    "name": "Cubbon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-28T08:01:46Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 3651.4,
+    "elevation_gain": 18.0,
+    "id": "19093390929",
+    "moving_time": 4073.0,
+    "name": "Cubbon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-28T09:22:10Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
